@@ -1,0 +1,14 @@
+{
+  "name": "pkg-exports",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Corey Farrell",
+  "license": "MIT",
+  "dependencies": {
+    "pkg1": "file:pkg1"
+  }
+}
